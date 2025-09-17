@@ -49,7 +49,7 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 - Mensajes de error informativos
 
 ### Pantalla 2: Selección de Fecha y Hora
-  <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="200"/>
+  <img src="https://github.com/yezid-jr/AppMedica/blob/56ff8201206005bc90698d538bb88d0a5b502eff/Public/Screenshot_20250917_150557.png" alt="Descripción" width="200"/>
 - DatePicker que solo permite fechas futuras
 - TimePicker con horarios de 8:00 AM a 6:00 PM
 - Intervalos de 30 minutos
