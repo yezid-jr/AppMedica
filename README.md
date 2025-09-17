@@ -46,7 +46,8 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 - Campo de teléfono (exactamente 10 dígitos)
 - Botón "Siguiente" habilitado solo con datos válidos
 - Mensajes de error informativos
-- ![Registro](https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png)
+- ![Registro]()
+- <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="400"/>
 
 ### Pantalla 2: Selección de Fecha y Hora
 - DatePicker que solo permite fechas futuras
