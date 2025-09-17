@@ -42,14 +42,14 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 ## Capturas de Pantalla
 
 ### Pantalla 1: Registro del Paciente
-<img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="300"/>
+  <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="200"/>
 - Campo de nombre completo (mínimo 2 palabras)
 - Campo de teléfono (exactamente 10 dígitos)
 - Botón "Siguiente" habilitado solo con datos válidos
 - Mensajes de error informativos
 
 ### Pantalla 2: Selección de Fecha y Hora
-<img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="300"/>
+  <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="200"/>
 - DatePicker que solo permite fechas futuras
 - TimePicker con horarios de 8:00 AM a 6:00 PM
 - Intervalos de 30 minutos
@@ -57,7 +57,7 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 
 
 ### Pantalla 3: Confirmación
-<img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="300"/>
+  <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="200"/>
 - Diseño profesional con Material Design
 - Ícono de confirmación verde
 - Resumen completo de la cita
