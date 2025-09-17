@@ -42,9 +42,27 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 ## Capturas de Pantalla
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong> Registro del Paciente</strong></td>
+      <td align="center"><strong> Selección de Fecha/Hora</strong></td>
+      <td align="center"><strong> Confirmación</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Registro del Paciente" width="250"/>
+      </td>
+      <td>
+        <img src="https://github.com/yezid-jr/AppMedica/blob/56ff8201206005bc90698d538bb88d0a5b502eff/Public/Screenshot_20250917_150557.png" alt="Selección de Fecha y Hora" width="250"/>
+      </td>
+      <td>
+        <img src="https://github.com/yezid-jr/AppMedica/blob/8f7e1afc8d373b99bb55d04fdc6b57495b5c7a13/Public/Screenshot_20250917_151025.png" alt="Confirmación de Cita" width="250"/>
+      </td>
+    </tr>
+  </table>
+</div>
   
 ### Pantalla 1: Registro del Paciente
-<img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Registro del Paciente" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
 **Características:**
 - Campo de nombre completo (mínimo 2 palabras)
@@ -55,7 +73,6 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 ---
 
 ### Pantalla 2: Selección de Fecha y Hora
-<img src="https://github.com/yezid-jr/AppMedica/blob/56ff8201206005bc90698d538bb88d0a5b502eff/Public/Screenshot_20250917_150557.png" alt="Selección de Fecha y Hora" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
 **Características:**
 - DatePicker que solo permite fechas futuras
@@ -66,7 +83,6 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 ---
 
 ### Pantalla 3: Confirmación
-<img src="https://github.com/yezid-jr/AppMedica/blob/8f7e1afc8d373b99bb55d04fdc6b57495b5c7a13/Public/Screenshot_20250917_151025.png" alt="Confirmación de Cita" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
 **Características:**
 - Diseño profesional con Material Design 3
@@ -74,8 +90,6 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 - Resumen completo y organizado de la cita
 - Formato legible de fecha y hora en español
 - Mensaje informativo para llegada temprana
-
-</div>
 
 ---
 
