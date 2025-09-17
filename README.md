@@ -41,27 +41,43 @@ Una aplicación médica desarrollada en Android con Jetpack Compose que permite 
 
 ## Capturas de Pantalla
 
+<div align="center">
+  
 ### Pantalla 1: Registro del Paciente
-  <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="200"/>
+<img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Registro del Paciente" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+**Características:**
 - Campo de nombre completo (mínimo 2 palabras)
 - Campo de teléfono (exactamente 10 dígitos)
 - Botón "Siguiente" habilitado solo con datos válidos
-- Mensajes de error informativos
+- Mensajes de error informativos en tiempo real
+
+---
 
 ### Pantalla 2: Selección de Fecha y Hora
-  <img src="https://github.com/yezid-jr/AppMedica/blob/56ff8201206005bc90698d538bb88d0a5b502eff/Public/Screenshot_20250917_150557.png" alt="Descripción" width="200"/>
+<img src="https://github.com/yezid-jr/AppMedica/blob/56ff8201206005bc90698d538bb88d0a5b502eff/Public/Screenshot_20250917_150557.png" alt="Selección de Fecha y Hora" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+**Características:**
 - DatePicker que solo permite fechas futuras
 - TimePicker con horarios de 8:00 AM a 6:00 PM
-- Intervalos de 30 minutos
-- Validación de horarios de atención
+- Intervalos de 30 minutos para mayor precisión
+- Validación automática de horarios de atención
 
+---
 
 ### Pantalla 3: Confirmación
-  <img src="https://github.com/yezid-jr/AppMedica/blob/251826a735db5b8ba0a993d98158dace1c3ebb28/Public/Screenshot_20250917_145925.png" alt="Descripción" width="200"/>
-- Diseño profesional con Material Design
-- Ícono de confirmación verde
-- Resumen completo de la cita
+<img src="https://github.com/yezid-jr/AppMedica/blob/8f7e1afc8d373b99bb55d04fdc6b57495b5c7a13/Public/Screenshot_20250917_151025.png" alt="Confirmación de Cita" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+**Características:**
+- Diseño profesional con Material Design 3
+- Ícono de confirmación verde para tranquilidad
+- Resumen completo y organizado de la cita
 - Formato legible de fecha y hora en español
+- Mensaje informativo para llegada temprana
+
+</div>
+
+---
 
 ## Arquitectura
 
